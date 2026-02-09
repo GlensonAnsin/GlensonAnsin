@@ -1,6 +1,3 @@
-<h1 align="center">
-  Glenson Ansin
-</h1>
 <h3 align="center">
   A Software Developer specializing in creating both web and mobile applications. Driven by a simple mission: to take the most ambitious ideas and engineer them into existence.
 </h3>
