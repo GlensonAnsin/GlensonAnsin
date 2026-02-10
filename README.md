@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3d-contrib" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3d-contrib" />
 </div>
 
 ---
