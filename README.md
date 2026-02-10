@@ -1,5 +1,5 @@
 <h3 align="center">
-  A Software Developer specializing in creating both web and mobile applications. Driven by a simple mission: to take the most ambitious ideas and engineer them into existence.
+  A Software Developer specializing in creating both web and mobile applications. Driven by a simple mission: to take the most ambitious ideas and develop them into existence.
 </h3>
 
 #
