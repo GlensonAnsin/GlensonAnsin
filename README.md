@@ -21,9 +21,14 @@
 
 </div>
 
+---
+
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3d-contrib" width="800" height=800" />
 </div>
+
+---
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="github-quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="github-quote" />
 </div>
